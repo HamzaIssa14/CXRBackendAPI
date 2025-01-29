@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Credentials ##
+src/main/resources/application.properties
+
+### others ###
+.DS_Store
